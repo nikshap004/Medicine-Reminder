@@ -26,3 +26,6 @@ Android Mobile Application that helps the user to record his list of medication 
   * MVP
   * minSdk 21
   * targetSdk 32
+
+# Contact for the full project file
++91 8050704483
